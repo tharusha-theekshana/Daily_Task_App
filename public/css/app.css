@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Poppin";
+    src: url("../fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Quicksand";
+    src: url("../fonts/Quicksand-Medium.ttf");
+}
+
+*{
+    font-family: "Quicksand";
+}
+
+.home-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.title{
+    font-family: "Poppin" !important;
+}
+
+.deleteBtn{
+    background-color: darkred !important;
+}
